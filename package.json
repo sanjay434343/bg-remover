@@ -1,0 +1,9 @@
+{
+  "name": "bg-remover-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@imgly/background-removal-node": "^1.3.0",
+    "node-fetch": "^3.3.2"
+  }
+}
